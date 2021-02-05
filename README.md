@@ -23,3 +23,6 @@ Notes:
     Location Scraping - https://www.indiatoday.in/india/story/red-orange-green-zones-full-current-update-list-districts-states-india-coronavirus-1673358-2020-05-01
 
     For designing of the app we have used Figma Designing Software.
+    
+    
+                                                                                                                                        Created By:- Anant Sharan, Vidya Shankar
